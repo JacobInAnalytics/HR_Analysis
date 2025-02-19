@@ -3,7 +3,9 @@ Project Analysing employee data
 
 ## Resources:
 data.csv: Our main dataset containing employee information and current salaries.
+
 education_data.csv: Supplementary data on employees' educational backgrounds.
+
 data_details.csv: A comprehensive guide explaining each column in both datasets.
 
 ## Goals:
